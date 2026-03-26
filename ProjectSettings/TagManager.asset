@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hidden
+  - Enemy
+  - VirtualCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - UI
+  - Enemy
+  - Hidden
+  - Maps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HiddenObjects
+    uniqueID: 2309412377
+    locked: 0
+  - name: ComponentButton
+    uniqueID: 3044817201
+    locked: 0
+  - name: LevelComponents
+    uniqueID: 2560777607
+    locked: 0
+  - name: Enemy
+    uniqueID: 3635695755
+    locked: 0
+  - name: Player
+    uniqueID: 3558620039
+    locked: 0
+  - name: ui
+    uniqueID: 2437466779
+    locked: 0
