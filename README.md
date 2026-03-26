@@ -7,7 +7,8 @@ A 2D platform-puzzle game developed for Global Game Jam 2026 under the theme "Ma
 ## 📌 Overview
 **Echoes Of Me** explores a "dual-reality" mechanic where the player equips a mask to dynamically reveal hidden platforms and alter the timeline. I served as the sole programmer for this project, working closely with newly met artists and designers to deliver a polished, playable build under a strict deadline.
 
-* **Engine:** Unity (C#)
+* **Engine:** Unity (2021.3.45f2)
+* * **Language:** C#
 * **Role:** Sole Programmer
 * **Context:** Game Jam 
 
